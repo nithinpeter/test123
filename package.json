@@ -1,7 +1,7 @@
 {
   "name": "test123",
-  "version": "1.0.0",
-  "description": "Hi! Hi!",
+  "version": "1.0.1",
+  "description": "Hi! Hi!..",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -58,6 +58,6 @@
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.10"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "me",
+  "license": "yes please"
 }
